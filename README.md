@@ -3,4 +3,4 @@ hello-world
 
 Test repository
 
-I think agile technologies will change business for the better. 
+Update #2...I changed my mind.  Agile technologies won't help business.  
